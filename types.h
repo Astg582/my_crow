@@ -4,7 +4,12 @@
 class token {
 	private:
 		int pos;
-		int type;
+		type_s ;
 		std::string tok_n; 
+       public:
+                void set_pos(int p){
+			this->pos = p;
+		}
+                void set_type (t
 };
 
