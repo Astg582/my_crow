@@ -3,7 +3,8 @@
 enum type_s {
 	val,
 	op,
-	k_w
+	k_w,
+        lit
 };
 
 enum type_key {
