@@ -33,18 +33,18 @@ enum to_go {
 
 namespace {
 	enum class all_key {
-		num_b,
-		f_t,
-		x_t,
-		b_o,
-		non_e,
-		an_y,
-		i_f,
-		els_e,
-		whil_e,
-		f_r,
-		bre_k,
-      		contin_e
+		numb,
+		ft,
+		xt,
+		bo,
+		none,
+		any,
+		if,
+		else,
+		while,
+		for,
+		break,
+      		continue
 	};
 }
 
