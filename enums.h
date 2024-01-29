@@ -3,9 +3,8 @@
 enum type_s {
 	val,
 	op,
-	k_w,
-
-}
+	k_w
+};
 
 enum type_key {
 	numb,
