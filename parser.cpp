@@ -3,9 +3,10 @@
 #include "enums.h"
 
 int main(){
-	all_key type = all_key::f_t;
-       if(type == all_key::f_t){	
-		std::cout << 14 << std::endl;
-       }
+	token ob;
+	ob.set_pos(4);
+	ob.set_type (4);
+	std::cout << ob.get_pos() << std::endl;
+
        return 0;
 }
